@@ -13,7 +13,7 @@
 	--blue_colour: blue;
 	--justify_space_between: space-between;
 	--justify_space_evenly: space-evenly;
-	--background_black: black;
+	--background_black: rgb(46, 41, 41);
 }
 
 /* GENERAL CSS FOR ALL START HERE */
